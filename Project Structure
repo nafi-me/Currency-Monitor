@@ -1,0 +1,12 @@
+google-currency-live/
+ ├─ pom.xml
+ └─ src/
+     ├─ main/java/com/livefx/
+     │    ├─ Main.java
+     │    ├─ Controller.java
+     │    ├─ ApiService.java
+     │    ├─ CurrencyData.java
+     │    └─ CurrencyList.java
+     └─ main/resources/
+          ├─ style.css
+          └─ currencies.txt
